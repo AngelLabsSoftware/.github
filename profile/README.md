@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/angel-labs-logo.png" width="100" alt="Angel Labs">
+  <img src="/images/angel-labs-logo.png" width="100" alt="Angel Labs">
 </p>
 <h1 align="center">Angel Labs</h1>
 
